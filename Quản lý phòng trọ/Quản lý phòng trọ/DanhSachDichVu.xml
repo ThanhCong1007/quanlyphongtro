@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>	
+<PhongTroList>
+  <DanhSachDichVu>
+    <MaDichVu>01</MaDichVu>
+    <TenDichVu>Điện</TenDichVu>
+    <GiaDichVu>5k/1kwh</GiaDichVu>
+  </DanhSachDichVu>
+  <DanhSachDichVu>
+    <MaDichVu>02</MaDichVu>
+    <TenDichVu>Nước</TenDichVu>
+    <GiaDichVu>8k/1m3</GiaDichVu>
+  </DanhSachDichVu>
+  <DanhSachDichVu>
+    <MaDichVu>03</MaDichVu>
+    <TenDichVu>Wifi</TenDichVu>
+    <GiaDichVu>300k/1 tháng</GiaDichVu>
+  </DanhSachDichVu>
+  <DanhSachDichVu>
+    <MaDichVu>04</MaDichVu>
+    <TenDichVu>Giặt sấy</TenDichVu>
+    <GiaDichVu>50k/1 lần</GiaDichVu>
+  </DanhSachDichVu>
+  <DanhSachDichVu>
+    <MaDichVu>05</MaDichVu>
+    <TenDichVu>Gửi xe</TenDichVu>
+    <GiaDichVu>150k/ 1 tháng</GiaDichVu>
+  </DanhSachDichVu>	
+</PhongTroList>

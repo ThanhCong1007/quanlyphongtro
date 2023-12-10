@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhSachPhongTro>
+  <PhongTro MaPhong="A57">
+    <DienTich>12x13</DienTich>
+    <Giathue>7000000</Giathue>
+    <DiaChi>Ho Chi Minh</DiaChi>
+    <TinhTrang>Đang thuê</TinhTrang>
+    <SoNguoiThue>2</SoNguoiThue>
+  </PhongTro>
+  <PhongTro MaPhong="A55">
+    <DienTich>12x13</DienTich>
+    <Giathue>7000000</Giathue>
+    <DiaChi>Da Nang</DiaChi>
+    <TinhTrang>Trống</TinhTrang>
+    <SoNguoiThue>0</SoNguoiThue>
+  </PhongTro>
+  <PhongTro MaPhong="A10">
+    <DienTich>12x13</DienTich>
+    <Giathue>7000000</Giathue>
+    <DiaChi>Ha Noi</DiaChi>
+    <TinhTrang>Đang thuê</TinhTrang>
+    <SoNguoiThue>1</SoNguoiThue>
+  </PhongTro>
+</DanhSachPhongTro>

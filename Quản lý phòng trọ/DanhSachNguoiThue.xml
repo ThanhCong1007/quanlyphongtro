@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhSachNguoiThue>
+  <NguoiThue>
+    <MaPhong>A57</MaPhong>
+    <HoTen>Nguyen Chi Cuong</HoTen>
+    <CCCD>079647583928</CCCD>
+    <SDT>0908589476</SDT>
+    <GioiTinh>Nam</GioiTinh>
+    <MaHopDong>079647583928</MaHopDong>
+  </NguoiThue>
+  <NguoiThue>
+    <MaPhong>A57</MaPhong>
+    <HoTen>Nguyen Van A</HoTen>
+    <CCCD>019238765748</CCCD>
+    <SDT>0907592134</SDT>
+    <GioiTinh>Nam</GioiTinh>
+    <MaHopDong>079647583928</MaHopDong>
+  </NguoiThue>
+  <NguoiThue>
+    <MaPhong>A10</MaPhong>
+    <HoTen>Nguyen Thi B</HoTen>
+    <CCCD>079890678456</CCCD>
+    <SDT>0907587652</SDT>
+    <GioiTinh>Nu</GioiTinh>
+    <MaHopDong>079890678456</MaHopDong>
+  </NguoiThue>
+  <NguoiThue>
+    <MaPhong>A30</MaPhong>
+    <HoTen>Nguyễn Chí Cường</HoTen>
+    <CCCD>079203010373</CCCD>
+    <SDT>0842326539</SDT>
+    <GioiTinh>Nam</GioiTinh>
+    <MaHopDong>079203010373</MaHopDong>
+  </NguoiThue>
+</DanhSachNguoiThue>

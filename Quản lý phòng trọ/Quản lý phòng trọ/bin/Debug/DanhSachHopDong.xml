@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>	
+<PhongTroList>
+  <DanhSachHopDong>
+    <MaHopDong>079647583928</MaHopDong>
+    <MaPhong>A57</MaPhong>
+    <NgayHieuLuc>01/09/2023</NgayHieuLuc>
+    <NgayHetHan>01/01/2024</NgayHetHan>
+    <GiaThuePhong>7 000 000</GiaThuePhong>
+    <DichVuSuDung>01,02,03</DichVuSuDung>
+    </DanhSachHopDong>
+  <DanhSachHopDong>
+    <MaHopDong>079890678456</MaHopDong>
+    <MaPhong>A10</MaPhong>
+    <NgayHieuLuc>01/09/2022</NgayHieuLuc>
+    <NgayHetHan>01/09/2023</NgayHetHan>
+    <GiaThuePhong>7 000 000</GiaThuePhong>
+    <DichVuSuDung>01,02,03</DichVuSuDung>
+ </DanhSachHopDong>
+ <DanhSachHopDong>
+   <MaHopDong>079203010373</MaHopDong>
+   <MaPhong>A30</MaPhong>
+   <NgayHieuLuc>01/11/2022</NgayHieuLuc>
+   <NgayHetHan>1/11/2024</NgayHetHan>
+   <GiaThuePhong>15 000 000</GiaThuePhong>
+   <DichVuSuDung>01,02,03,04,05</DichVuSuDung>
+ </DanhSachHopDong>
+</PhongTroList>
