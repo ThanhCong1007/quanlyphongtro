@@ -1,0 +1,36 @@
+C:\Users\grass\OneDrive\Documents\Documents\Study\giáo án cntt\Đồ Án Tin Học\Quản lý phòng trọ\Quản lý phòng trọ\obj\Debug\Quản lý phòng trọ.csproj.AssemblyReference.cache
+C:\Users\grass\OneDrive\Documents\Documents\Study\giáo án cntt\Đồ Án Tin Học\Quản lý phòng trọ\Quản lý phòng trọ\obj\Debug\Quản_lý_phòng_trọ.Properties.Resources.resources
+C:\Users\grass\OneDrive\Documents\Documents\Study\giáo án cntt\Đồ Án Tin Học\Quản lý phòng trọ\Quản lý phòng trọ\obj\Debug\Quản lý phòng trọ.csproj.GenerateResource.cache
+C:\Users\grass\OneDrive\Documents\Documents\Study\giáo án cntt\Đồ Án Tin Học\Quản lý phòng trọ\Quản lý phòng trọ\obj\Debug\Quản lý phòng trọ.csproj.CoreCompileInputs.cache
+C:\Users\grass\OneDrive\Documents\Documents\Study\giáo án cntt\Đồ Án Tin Học\Quản lý phòng trọ\Quản lý phòng trọ\bin\Debug\Quản lý phòng trọ.exe.config
+C:\Users\grass\OneDrive\Documents\Documents\Study\giáo án cntt\Đồ Án Tin Học\Quản lý phòng trọ\Quản lý phòng trọ\bin\Debug\Quản lý phòng trọ.exe
+C:\Users\grass\OneDrive\Documents\Documents\Study\giáo án cntt\Đồ Án Tin Học\Quản lý phòng trọ\Quản lý phòng trọ\bin\Debug\Quản lý phòng trọ.pdb
+C:\Users\grass\OneDrive\Documents\Documents\Study\giáo án cntt\Đồ Án Tin Học\Quản lý phòng trọ\Quản lý phòng trọ\obj\Debug\Quản lý phòng trọ.exe
+C:\Users\grass\OneDrive\Documents\Documents\Study\giáo án cntt\Đồ Án Tin Học\Quản lý phòng trọ\Quản lý phòng trọ\obj\Debug\Quản lý phòng trọ.pdb
+C:\Users\grass\OneDrive\Documents\Documents\Study\giáo án cntt\Đồ Án Tin Học\Quản lý phòng trọ\Quản lý phòng trọ\obj\Debug\Quản_lý_phòng_trọ.DangKy.resources
+C:\Users\grass\OneDrive\Documents\Documents\Study\giáo án cntt\Đồ Án Tin Học\Quản lý phòng trọ\Quản lý phòng trọ\obj\Debug\Quản_lý_phòng_trọ.DangNhap.resources
+C:\Users\grass\OneDrive\Documents\Documents\Study\giáo án cntt\Đồ Án Tin Học\Quản lý phòng trọ\Quản lý phòng trọ\obj\Debug\Quản_lý_phòng_trọ.DuLieu.resources
+C:\Users\grass\OneDrive\Documents\Documents\Study\giáo án cntt\Đồ Án Tin Học\Quản lý phòng trọ\Quản lý phòng trọ\bin\Debug\DanhSachPhongTro.xml
+C:\Users\grass\OneDrive\Documents\Documents\Study\giáo án cntt\Đồ Án Tin Học\Quản lý phòng trọ\Quản lý phòng trọ\bin\Debug\DanhSachHopDong.xml
+C:\Users\grass\OneDrive\Documents\Documents\Study\giáo án cntt\Đồ Án Tin Học\Quản lý phòng trọ\Quản lý phòng trọ\bin\Debug\DanhSachNguoiThue.xml
+C:\Users\grass\OneDrive\Documents\Documents\Study\giáo án cntt\Đồ Án Tin Học\Quản lý phòng trọ\Quản lý phòng trọ\bin\Debug\LichSuThanhToan.xml
+C:\Users\grass\OneDrive\Documents\Documents\Study\giáo án cntt\Đồ Án Tin Học\Quản lý phòng trọ\Quản lý phòng trọ\bin\Debug\taikhoan.txt
+C:\Users\grass\OneDrive\Documents\Documents\Study\giáo án cntt\Đồ Án Tin Học\Quản lý phòng trọ\Quản lý phòng trọ\bin\Debug\DanhSachDichVu.xml
+D:\C#\Quản lý phòng trọ\Quản lý phòng trọ\bin\Debug\DanhSachDichVu.xml
+D:\C#\Quản lý phòng trọ\Quản lý phòng trọ\bin\Debug\DanhSachHopDong.xml
+D:\C#\Quản lý phòng trọ\Quản lý phòng trọ\bin\Debug\DanhSachNguoiThue.xml
+D:\C#\Quản lý phòng trọ\Quản lý phòng trọ\bin\Debug\DanhSachPhongTro.xml
+D:\C#\Quản lý phòng trọ\Quản lý phòng trọ\bin\Debug\LichSuThanhToan.xml
+D:\C#\Quản lý phòng trọ\Quản lý phòng trọ\bin\Debug\taikhoan.txt
+D:\C#\Quản lý phòng trọ\Quản lý phòng trọ\bin\Debug\Quản lý phòng trọ.exe.config
+D:\C#\Quản lý phòng trọ\Quản lý phòng trọ\bin\Debug\Quản lý phòng trọ.exe
+D:\C#\Quản lý phòng trọ\Quản lý phòng trọ\bin\Debug\Quản lý phòng trọ.pdb
+D:\C#\Quản lý phòng trọ\Quản lý phòng trọ\obj\Debug\Quản lý phòng trọ.csproj.AssemblyReference.cache
+D:\C#\Quản lý phòng trọ\Quản lý phòng trọ\obj\Debug\Quản_lý_phòng_trọ.DuLieu.resources
+D:\C#\Quản lý phòng trọ\Quản lý phòng trọ\obj\Debug\Quản_lý_phòng_trọ.DangKy.resources
+D:\C#\Quản lý phòng trọ\Quản lý phòng trọ\obj\Debug\Quản_lý_phòng_trọ.DangNhap.resources
+D:\C#\Quản lý phòng trọ\Quản lý phòng trọ\obj\Debug\Quản_lý_phòng_trọ.Properties.Resources.resources
+D:\C#\Quản lý phòng trọ\Quản lý phòng trọ\obj\Debug\Quản lý phòng trọ.csproj.GenerateResource.cache
+D:\C#\Quản lý phòng trọ\Quản lý phòng trọ\obj\Debug\Quản lý phòng trọ.csproj.CoreCompileInputs.cache
+D:\C#\Quản lý phòng trọ\Quản lý phòng trọ\obj\Debug\Quản lý phòng trọ.exe
+D:\C#\Quản lý phòng trọ\Quản lý phòng trọ\obj\Debug\Quản lý phòng trọ.pdb

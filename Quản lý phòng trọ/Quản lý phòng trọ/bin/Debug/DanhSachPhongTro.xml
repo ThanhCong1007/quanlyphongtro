@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PhongTroList>
+  <DanhSachPhong>
+    <MaPhong>A57</MaPhong>
+    <DienTich>25m2</DienTich>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <GiaThue>7 000 000</GiaThue>
+    <SoNguoiThue>2</SoNguoiThue>
+    <TinhTrang>Đang thuê</TinhTrang>
+    <Is_Deleted>false</Is_Deleted>
+  </DanhSachPhong>
+  <DanhSachPhong>
+    <MaPhong>A55</MaPhong>
+    <DienTich>25m2</DienTich>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <GiaThue>7 000 000</GiaThue>
+    <SoNguoiThue>0</SoNguoiThue>
+    <TinhTrang>Trống</TinhTrang>
+    <Is_Deleted>false</Is_Deleted>
+  </DanhSachPhong>
+  <DanhSachPhong>
+    <MaPhong>A10</MaPhong>
+    <DienTich>40m2</DienTich>
+    <DiaChi>Hà Nội</DiaChi>
+    <GiaThue>10 000 000</GiaThue>
+    <SoNguoiThue>1</SoNguoiThue>
+    <TinhTrang>Đang thuê</TinhTrang>
+    <Is_Deleted>false</Is_Deleted>
+  </DanhSachPhong>
+  <DanhSachPhong>
+    <MaPhong>A30</MaPhong>
+    <DienTich>40m2</DienTich>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+    <GiaThue>15 000 000</GiaThue>
+    <SoNguoiThue>1</SoNguoiThue>
+    <TinhTrang>Đang thuê</TinhTrang>
+    <Is_Deleted>false</Is_Deleted>
+  </DanhSachPhong>
+  <DanhSachPhong>
+    <MaPhong>A01</MaPhong>
+    <DienTich>60m2</DienTich>
+    <DiaChi>Huế</DiaChi>
+    <GiaThue>25 000 000</GiaThue>
+    <SoNguoiThue>0</SoNguoiThue>
+    <TinhTrang>Trống</TinhTrang>
+    <Is_Deleted>true</Is_Deleted>
+  </DanhSachPhong>
+</PhongTroList>

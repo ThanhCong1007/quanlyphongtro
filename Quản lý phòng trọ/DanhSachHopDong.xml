@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhSachHopDong>
+  <HopDong>
+    <NgayHieuLuc>11/01/2022</NgayHieuLuc>
+    <NgayHetHan>11/01/2024</NgayHetHan>
+    <MaHopDong>079203010373</MaHopDong>
+    <MaPhong>A30</MaPhong>
+    <GiaThue>15 000 000</GiaThue>
+    <DichVuSuDung>01,02,03,04,05</DichVuSuDung>
+  </HopDong>
+  <HopDong>
+    <NgayHieuLuc>09/01/2023</NgayHieuLuc>
+    <NgayHetHan>01/01/2024</NgayHetHan>
+    <MaHopDong>079647583928</MaHopDong>
+    <MaPhong>A57</MaPhong>
+    <GiaThue>7 000 000</GiaThue>
+    <DichVuSuDung>01,02,03</DichVuSuDung>
+  </HopDong>
+  <HopDong>
+    <NgayHieuLuc>09/01/2022</NgayHieuLuc>
+    <NgayHetHan>09/01/2023</NgayHetHan>
+    <MaHopDong>079890678456</MaHopDong>
+    <MaPhong>A10</MaPhong>
+    <GiaThue>7 000 000</GiaThue>
+    <DichVuSuDung>01,02,03</DichVuSuDung>
+  </HopDong>
+</DanhSachHopDong>
