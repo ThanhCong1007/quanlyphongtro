@@ -24,12 +24,5 @@
     <GioiTinh>Nu</GioiTinh>
     <MaHopDong>079890678456</MaHopDong>
   </NguoiThue>
-  <NguoiThue>
-    <MaPhong>A30</MaPhong>
-    <HoTen>Nguyễn Chí Cường</HoTen>
-    <CCCD>079203010373</CCCD>
-    <SDT>0842326539</SDT>
-    <GioiTinh>Nam</GioiTinh>
-    <MaHopDong>079203010373</MaHopDong>
-  </NguoiThue>
+  
 </DanhSachNguoiThue>
